@@ -18,7 +18,6 @@ Work with your partner to divide and concur the tasks.
 
 > All VMs are accessible from internet, so you can run everything from your laptop or from one of the ubuntu server provided
 
-??You'll find the URL to access the management interface of your lab in the file corresponding to your pod number.??
 
 
 
