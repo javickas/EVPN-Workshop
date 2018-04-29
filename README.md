@@ -1050,7 +1050,9 @@ When using Type 5 mode, we are doing symmetric routing and need only local VNIs.
 
 ###### Note
 ```
-As you must have noticed, we used only single homing and not multihoming using ESI. We started off with the multihoming case but vQFX did not work well with ESI. We see the control plane worked as expected but the servers could not ping each other in some cases
+As you must have noticed, we used only single homing and not multihoming using ESI. 
+We started off with the multihoming case but vQFX did not work well with ESI. 
+We see the control plane worked as expected but the servers could not ping each other in some cases
 ```
 
 
