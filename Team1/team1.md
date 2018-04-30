@@ -1,4 +1,4 @@
-### Physical connections
-![Lab topology](topology.png?raw=true)
+### Team IP Addresses
+![Lab_topology](./topology.png)
 
-![Lab ip](team1.png)
+![Lab_Image](/Images/Team1.png)
